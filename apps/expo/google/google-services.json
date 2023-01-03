@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "160804080509",
+    "firebase_url": "https://nextprutest.firebaseio.com",
+    "project_id": "nextprutest",
+    "storage_bucket": "nextprutest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160804080509:android:92b11095831b6ed7259a14",
+        "android_client_info": {
+          "package_name": "com.prultd.fifthgalaxy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160804080509-90nsl1e4hhm6s25her313l777ak3rqcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvVM71GOLIWwnOy3WKX_Ln67Pyx5MdAYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160804080509-90nsl1e4hhm6s25her313l777ak3rqcu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "160804080509-6i52mqts1c2u4ni56v3ge44dp65sbnmn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.prultd.fifthgalaxy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+{
+  "projects": {
+    "default": "prultd-f7a9e"
+  },
+  "targets": {},
+  "etags": {
+    "prultd-f7a9e": {
+      "extensionInstances": {
+        "moralis-auth": "bf3a0d555ad4643dc6b05eae514fd85f52b34db0d987a466dde5ab5326eb37a5"
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "version": "0.0.0",
+  "name": "app",
+  "main": "index.ts",
+  "dependencies": {
+    "dripsy": "^3.6.0",
+    "expo-linking": "^3.3.0",
+    "moti": "0.21.0",
+    "react-native-reanimated": "2.13.0",
+    "solito": "^2.0.0",
+    "nativewind": "^2.0.11",
+    "@radix-ui/react-context-menu": "^0",
+    "firebase": "9.15.0",
+    "@moralisweb3/auth": "^2.7.4",
+    "@moralisweb3/client-firebase-evm-auth": "2.7.4",
+    "zeego": "^1.0.2",
+    "zustand": "^4.1.5",
+    "@mobily/stacks": "^2.2.2"
+  },
+  "sideEffects": false
+}
